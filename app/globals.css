@@ -99,8 +99,7 @@
   align-items: flex-start;
   border-radius: 10px;
   color: rgb(180, 180, 180) !important;
- padding-top: 40px;
-text-decoration: none !important;
+ text-decoration: none !important;
 margin-top: 100px;
   width: 346.51px;
 height: 560px;
@@ -165,7 +164,7 @@ select{
   font-family: 'dana';
   font-size: 15px !important;
   background-color: rgb(252, 252, 252) !important;
-  width:300px !important;
+  width:280px !important;
   margin-right: auto;
   margin-left: auto;
   right: 0px;
@@ -177,12 +176,12 @@ position: absolute;
   color: rgb(58, 58, 58);
   text-align: center!important;
  direction: rtl;
-border-radius:10px;
+border-radius:3px;
 cursor: pointer;
 height: 30px;
 border: none!important;
-
-top: 243px;
+position: absolute;
+top: 153px;
 
 
 }

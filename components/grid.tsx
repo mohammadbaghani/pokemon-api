@@ -85,14 +85,25 @@ export function PokemonGrid({ pokemonList }: PokemonGridProps) {
 
 
                 <div className="pokemon-box text-2xl text-bold">
-                    <p  className="pokemon-box text-bold">select a pokemon
-                        </p></div>
+                    <p className="pokemon-box text-bold">select a pokemon
+                    </p></div>
 
 
                 <h className={`   pokemon-link text-2xl font-semibold`}>
 
 
-                    {selected ? <h> {selected}</h> : ''}
+                    {selected ?
+                        <><h>
+                            <h> روی لینک زیر کلیک نمایید</h>
+                            <br>
+                            </br>
+                            {selected}
+
+
+                        </h>
+
+                        </>
+                        : ''}
 
 
 
