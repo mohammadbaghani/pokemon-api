@@ -1,13 +1,13 @@
 import Link from "next/link"
 
 
-// pikachu, -> localhost:3000/pikachu
+
 
 interface PokemonCardProps {
     name: string
 }
 
-// <PokemonCard name="pikachu" />
+
 
 export function PokemonCard({ name } : PokemonCardProps) {
     return (

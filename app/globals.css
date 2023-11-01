@@ -68,11 +68,121 @@
   }
 }
  
-@layer base {
-  * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
-  }
+
+
+
+
+
+
+@font-face {
+  font-family: 'dana';
+  src: url(./DanaFaNum-Medium.woff2) format('woff2'),
+    url(./DanaFaNum-Medium.woff) format('woff'),
+
+    url(./LuckiestGuy.otf) format('otf');
+
+}
+
+
+
+.pokemon-box{
+  font-family: 'dana';
+  font-size: 15px !important;
+  background-color: rgb(83, 83, 85) !important;
+  width:300px !important;
+  margin-right: auto;
+  margin-left: auto;
+  right: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  border-radius: 10px;
+  color: rgb(180, 180, 180) !important;
+ padding-top: 40px;
+text-decoration: none !important;
+margin-top: 100px;
+  width: 346.51px;
+height: 560px;
+top: 543px !important;
+left: -1330px;
+text-decoration-color: transparent!important;
+}
+p{
+ 
+  text-decoration: none!important;
+  text-decoration-color: transparent!important;
+}
+
+.pokemon-link{
+  font-family: 'dana';
+  font-size: 15px !important;
+  background-color: transparent!important;
+  width:500px !important;
+  margin-right: auto;
+  margin-left: auto;
+  right: 0px;
+  left: 0px;
+  display: flex!important;
+  justify-content: center;
+  align-items: center;
+position: absolute;
+  color: rgb(243, 235, 235);
+  text-align: center!important;
+ direction: rtl;
+border-radius:10px;
+cursor: pointer;
+height: 30px;
+border: none!important;
+font-weight: 400;
+top: 443px;
+}
+.pokemon-header{
+  font-family: 'dana';
+  font-size: 15px !important;
+  background-color: transparent!important;
+  width:300px !important;
+  margin-right: auto;
+  margin-left: auto;
+  right: 0px;
+  left: 0px;
+  display: flex!important;
+  justify-content: center;
+  align-items: center;
+position:relative;
+  color: rgb(243, 235, 235);
+  text-align: center!important;
+ direction: rtl;
+border-radius:10px;
+cursor: pointer;
+height: 30px;
+border: none!important;
+font-weight: 400;
+top:50px;
+}
+
+select{
+  font-family: 'dana';
+  font-size: 15px !important;
+  background-color: rgb(252, 252, 252) !important;
+  width:300px !important;
+  margin-right: auto;
+  margin-left: auto;
+  right: 0px;
+  left: 0px;
+  display: flex!important;
+  justify-content: center;
+  align-items: center;
+position: absolute;
+  color: rgb(58, 58, 58);
+  text-align: center!important;
+ direction: rtl;
+border-radius:10px;
+cursor: pointer;
+height: 30px;
+border: none!important;
+
+top: 243px;
+
+
 }
