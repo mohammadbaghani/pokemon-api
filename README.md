@@ -4,7 +4,7 @@ Technology used : Next.js
 
 <br><br/>
 
-این پروژه را با نکست زدم.از pokemon api استفاده کردم
+فچ دیتا ها با نکست js 
 <br><br/>
 سایت منبع : https://pokeapi.co
 <br><br/> 
