@@ -1,5 +1,3 @@
-<br><br/>
-
 فچ دیتا ها با نکست js 
 <br><br/>
 سایت منبع : https://pokeapi.co
