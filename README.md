@@ -1,4 +1,5 @@
 Get pokemon api
+<br><br/>
 Technology used : Next.js 
 
 <br><br/>
