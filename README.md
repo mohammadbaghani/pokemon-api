@@ -7,7 +7,6 @@
 <br><br/>
 Get pokemon api using Next JS
 <br><br/>
-Technology used : Next.js 
-Api site  https://jsonplaceholder.typicode.com
+Api site   https://pokeapi.co
 
 
