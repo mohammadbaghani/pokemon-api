@@ -3,10 +3,9 @@
 سایت منبع : https://pokeapi.co
 <br><br/> 
 
-<br><br/>
 
 <br><br/>
-Get pokemon api with Next JS
+Get pokemon api using Next JS
 <br><br/>
 Technology used : Next.js 
 Api site  https://jsonplaceholder.typicode.com
