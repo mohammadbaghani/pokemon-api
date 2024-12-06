@@ -2,7 +2,7 @@
 <br><br/>
 سایت منبع : https://pokeapi.co
 <br><br/> 
-Get pokemon api
+Get pokemon api with Next JS
 <br><br/>
 Technology used : Next.js 
 
